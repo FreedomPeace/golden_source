@@ -8,4 +8,5 @@
 7.内存优化 方式  ，解决方案 
 
 8.软引用 soft，弱引用，虚引用 weak，强引用
-一个线程只有一个Looper  ，LocalThread《Looper》  hashmap  key  thread的名字 
+一个线程只有一个Looper  ，LocalThread《Looper》  hashmap  key  thread的名字  
+9.gradle 打包的流程
